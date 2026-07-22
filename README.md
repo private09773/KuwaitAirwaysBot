@@ -15,20 +15,20 @@
 > The Bot has a list of features to help the needs of passengers who want to feel the immersive roleplay experience of Kuwait Airways PTFS, all features are listed below:
 
 
-**Utilites** 
--# Bot commands to show all commands, view the servers analytics and many more.
+`**Utilites** 
+-# Bot commands to show all commands, view the servers analytics and many more.`
      ↓
-**Flight Planning** 
--# Plan flights to have a realistic roleplay experience. 
+`**Flight Planning** 
+-# Plan flights to have a realistic roleplay experience.`
      ↓
-**Flight Booking** 
--# Show All of your booked flights by using commands. 
+`**Flight Booking** 
+-# Show All of your booked flights by using commands.`
      ↓
-**View Flights** 
--# Show how many flights are there, how many passengers and how many flights have you booked. 
+`**View Flights** 
+-# Show how many flights are there, how many passengers and how many flights have you booked.`
      ↓
-**Economy System** 
--# An interactable economy system to book flights. 
+`**Economy System** 
+-# An interactable economy system to book flights.` 
 
 ---
 ### How to Run The Bot
