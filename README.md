@@ -36,3 +36,6 @@ To run the bot locally or on a hosting platform follow these steps to get the bo
 
 ## Local Hosting
 **Windows**
+``` bash
+# 1. Clone the Repository. 
+git clone https://github.com/private09773/KuwaitAirwaysBot
