@@ -39,3 +39,8 @@ To run the bot locally or on a hosting platform follow these steps to get the bo
 ``` bash
 # 1. Clone the Repository. 
 git clone https://github.com/private09773/KuwaitAirwaysBot
+
+# 2. After cloning the repository, you should see this:
+&& echo "Repository Cloned Successfully! "
+# Output:
+Repository Cloned Successfully! 
