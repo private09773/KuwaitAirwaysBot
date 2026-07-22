@@ -5,4 +5,6 @@
 
 ---
 
-###### ABOUT THIS BOT
+### About This Bot
+
+> This bot was created by John Adman and was requested by a fellow user named toxic.waste__, the Bot is Designed to plan flights and an economy system for users to experience booking flights realistically.
