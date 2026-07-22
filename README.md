@@ -31,9 +31,9 @@
 -# An interactable economy system to book flights.` 
 
 ---
-### How to Run The Bot
+### How to Copy The Repository
 
-To run the bot locally or on a hosting platform follow these steps to get the bot live. 
+To copy the bot repository locally or on a hosting platform follow these steps to get the bot live. 
 
 ## Local Hosting
 **Windows**
@@ -58,4 +58,13 @@ git clone https://github.com/private09773/KuwaitAirwaysBot
 Repository Cloned Successfully! 
 ```
 
-## 
+## How to Run the Bot
+To run the bot, make sure you have configured the following in .env:
+- DISCORD_TOKEN
+- APPLICATION_ID (Optional)
+- MONGODB URI 
+
+Then run these commands to run the bot locally.
+
+**Windows**
+
