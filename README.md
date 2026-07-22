@@ -1,3 +1,4 @@
+
 # Kuwait Airways PTFS Bot 🇰🇼
 ---
 ![discord.py version](https://img.shields.io/github/release/Rapptz/discord.py?logo=discord&logoColor=white&style=for-the-badge)
@@ -44,3 +45,17 @@ git clone https://github.com/private09773/KuwaitAirwaysBot
 && echo "Repository Cloned Successfully! "
 # Output:
 Repository Cloned Successfully! 
+```
+
+**Linux**
+``` bash
+# 1. Clone the Repository. 
+git clone https://github.com/private09773/KuwaitAirwaysBot
+
+# 2. After cloning the repository, you should see this:
+&& echo "Repository Cloned Successfully! "
+# Output:
+Repository Cloned Successfully! 
+```
+
+## 
