@@ -1,4 +1,3 @@
-
 # Kuwait Airways PTFS Bot 🇰🇼
 ---
 ![discord.py version](https://img.shields.io/github/release/Rapptz/discord.py?logo=discord&logoColor=white&style=for-the-badge)
@@ -32,3 +31,8 @@
 
 ---
 ### How to Run The Bot
+
+To run the bot locally or on a hosting platform follow these steps to get the bot live. 
+
+## Local Hosting
+**Windows**
