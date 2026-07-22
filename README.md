@@ -1,4 +1,3 @@
 # Kuwait Airways PTFS Bot 🇰🇼
 ---
-
-![discord.py version](https://img.shields.io/pypi/v/discord.py?logo=python&logoColor=white)
+![GitHub release](https://img.shields.io/github/v/release/Rapptz/discord.py)
